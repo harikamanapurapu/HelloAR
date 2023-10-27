@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HelloAR/static/css/main.c4824a58.css",
-    "main.js": "/HelloAR/static/js/main.aeee307d.js",
+    "main.js": "/HelloAR/static/js/main.a4bb2798.js",
     "static/media/indianFlag.png": "/HelloAR/static/media/indianFlag.3707d98a933fbc48b839.png",
     "index.html": "/HelloAR/index.html",
     "main.c4824a58.css.map": "/HelloAR/static/css/main.c4824a58.css.map",
-    "main.aeee307d.js.map": "/HelloAR/static/js/main.aeee307d.js.map"
+    "main.a4bb2798.js.map": "/HelloAR/static/js/main.a4bb2798.js.map"
   },
   "entrypoints": [
     "static/css/main.c4824a58.css",
-    "static/js/main.aeee307d.js"
+    "static/js/main.a4bb2798.js"
   ]
 }
