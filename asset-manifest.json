@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/harikamanapurapu/HelloAR/static/css/main.c4824a58.css",
+    "main.js": "/github.io/harikamanapurapu/HelloAR/static/js/main.e808d2dd.js",
+    "static/media/indianFlag.png": "/github.io/harikamanapurapu/HelloAR/static/media/indianFlag.3707d98a933fbc48b839.png",
+    "index.html": "/github.io/harikamanapurapu/HelloAR/index.html",
+    "main.c4824a58.css.map": "/github.io/harikamanapurapu/HelloAR/static/css/main.c4824a58.css.map",
+    "main.e808d2dd.js.map": "/github.io/harikamanapurapu/HelloAR/static/js/main.e808d2dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4824a58.css",
+    "static/js/main.e808d2dd.js"
+  ]
+}
