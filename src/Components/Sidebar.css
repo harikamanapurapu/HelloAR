@@ -1,0 +1,32 @@
+.Sidebar{
+    width: 255px;
+height: 100vh;
+box-shadow: -1px 0px 0px 0px hsla(0, 0%, 0%, 0.05) inset;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+
+}
+.songs{
+
+}
+.Sidebar-header{
+    font-family: Roboto;
+    font-size: 36px;
+    text-align: center;
+    color: hsla(271, 56%, 33%, 1);
+}
+.logout{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    display: inline-flex;
+
+
+}
+.img{
+    width: 24px;
+height: 24px;
+}
